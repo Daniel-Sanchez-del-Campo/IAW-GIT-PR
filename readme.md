@@ -16,4 +16,4 @@ Los pasos fundamentales (con instrucciones) para realizar el pull request.
 Al finalizar el ejercicio (cuando todos los alumnos hayan mandado el PR) debes actualizar tu repositorio remoto y enviarme la URL para que yo lo pueda comprobar.
 
 PON AQUÍ TU NOMBRE:
-* [DSDC](https://github.com/AlfonsoDeUna/IAW-GIT-PR/blob/main/files/AUB.md)
+[DSDC](https://github.com/Daniel-Sanchez-del-Campo/IAW-GIT-PR/blob/main/files/DSDC.md)
